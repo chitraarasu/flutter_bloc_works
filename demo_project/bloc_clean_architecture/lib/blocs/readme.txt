@@ -1,0 +1,1 @@
+Common bloc folder for full app.
